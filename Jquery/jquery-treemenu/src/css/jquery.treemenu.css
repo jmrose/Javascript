@@ -1,0 +1,6 @@
+#tree-word { border: 1px solid #ccc; height: 21px; ime-mode:active; padding:0px 5px; }
+.tree-close { cursor: pointer; padding: 1px 8px;  }
+.tree-open { cursor: pointer; padding: 1px 8px; margin: 2px 2px; }
+.folder, .folder label{ cursor: pointer; }
+.sub-menus { -webkit-padding-start: 24px; margin-bottom: 10px; }
+.sub-menus li { margin-bottom: 4px; }
