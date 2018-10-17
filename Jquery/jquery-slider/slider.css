@@ -1,0 +1,65 @@
+.slider .next{
+    position: relative;
+    z-index: 999;
+    display: block;
+    width: 40px;
+    padding: 20px;
+    float:left;
+}
+
+.slider .prev{
+    position: relative;
+    z-index: 9;
+    display: block;
+    width: 40px;
+    padding: 20px 10px;
+    float:right;
+}
+
+
+.slider ul {
+    float:left;
+    position: relative;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.slider ul li {
+    float:left;
+    position: absolute;
+    display: none;
+    margin: 0;
+    padding: 0;
+}
+
+.slider ul li:first-child {
+    display: block;
+}
+
+/* 생략가능 */
+.content1 {
+    width:600px;
+    height:600px;
+    margin:0px auto;
+    border:1px solid #ccc;
+    background-color: #fff;
+}
+
+.content1 ul {
+    width: 75%;
+}
+
+.content1 ul li {
+    margin-top: 50px;
+    height: 500px;
+    line-height: 500px;
+    width: 100%;
+    text-align: center;
+}
+
+.content1 span {
+    width: 100%;
+    height: 500px;
+    line-height: 600px;
+}
