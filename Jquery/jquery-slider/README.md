@@ -1,14 +1,14 @@
-## Jquery && Explorer 8 용 Slider Sample
+## Jquery Slider Example
 
+>Explorer 8/9 지원.  
+여러개의 slider 지원. ( className : content1 > content2 로 변경사용)  
+slider.css or slider2.css  다양한 UI에 활용가능.
+
+<br />
+  
 * 상위 레이아웃에 className(slider, content1)을 지정한다  class="slider content1"
 * slider 버튼에 상위에서 지정한 className과 방향(direction)을 넣어준다   onclick="onSlide('.content1', 'right')"  
 
-<br />
-<br />
-
->페이지 내에 여러개의 Slider 사용이 가능하도록 onSlide() 함수로 처리하였으니,  
-상위 className > content1 명을 변경하여 여러개의 slider를 추가사용하십시오.  
-Css은 slider.css or slider2.css 와 같이 수정하여 다양한 UI에 활용가능합니다.
 
 <br />
 
