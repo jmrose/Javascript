@@ -6,7 +6,7 @@
 <br />
 <br />
 
->페이지 내에 여러개의 Slider 사용이 가능하도록 onSlide() 함수로 처리하였으므로,  
+>페이지 내에 여러개의 Slider 사용이 가능하도록 onSlide() 함수로 처리하였,  
 상위 className > content1 명을 변경하여 여러개의 slider를 추가사용하십시오.  
 Css은 slider.css or slider2.css 와 같이 수정하여 다양한 UI에 활용가능합니다.
 
